@@ -44,6 +44,10 @@ The Forest
 Sons of the Forest
   - Status icons recreated from screenshots
 
+Risk of Rain 2
+  - Timer recreated from screenshots
+  - Font is [Bombardier](https://fontesk.com/bombardier-font/)
+
 Dark Souls 3
   - HUD elements from [this reddit post](https://www.reddit.com/r/darksouls3/comments/4nkc4q/dark_souls_iii_assets/)
   - Font is [Matisse Pro EB](https://fontsgeek.com/fonts/fot-matisse-pro-eb)
