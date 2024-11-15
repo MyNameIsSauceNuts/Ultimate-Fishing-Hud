@@ -4,6 +4,7 @@ The All In One (and more) WebFishing hud
 The Ultimate Fishing Hud is the go to hud for everything you need in webfishing! featuring many elements that tell you everything important! 
 
 The Ultimate Fishing Hud will give you:
+
 Deadlock
   - Minimap picture from the [Deadlock Wiki](https://deadlocked.wiki/Map)
 
